@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "booking": "Book Appointment",
+    "contact": "Contact",
+    "lang": "עב"
+  },
+  "hero": {
+    "badge": "Leading Physiotherapy Clinic",
+    "title": "Everything Starts with Healthy Feet",
+    "subtitle": "FIXFEET.CO.IL — Experts in physiotherapy, rehabilitation and foot health. Over 15 years of professional and personal care.",
+    "cta_primary": "Book Now",
+    "cta_secondary": "Message on WhatsApp",
+    "scroll": "Scroll down"
+  },
+  "features": {
+    "title": "Our Services",
+    "subtitle": "A wide range of advanced physiotherapy treatments",
+    "items": [
+      {
+        "icon": "Footprints",
+        "title": "Foot Physiotherapy",
+        "desc": "Professional treatment for foot, ankle and bone pain. Advanced methods for pain relief and rehabilitation."
+      },
+      {
+        "icon": "Activity",
+        "title": "Lower Back Pain",
+        "desc": "Diagnosis and treatment of lower back pain related to posture and gait issues. Personalised rehabilitation for every patient."
+      },
+      {
+        "icon": "HeartPulse",
+        "title": "Post-Surgery Rehabilitation",
+        "desc": "Professional support throughout recovery after foot, knee and hip surgeries. Safe and rapid return to activity."
+      },
+      {
+        "icon": "Zap",
+        "title": "Sports Injuries",
+        "desc": "Treatment of sports injuries: sprains, tears and muscle fatigue. Fast return to training routines."
+      },
+      {
+        "icon": "Layers",
+        "title": "Orthopedic Insoles",
+        "desc": "Custom-made orthopedic insoles tailored to foot structure, for improved posture and pain prevention."
+      },
+      {
+        "icon": "ScanLine",
+        "title": "Gait Analysis",
+        "desc": "Advanced computerized gait analysis to identify imbalances, body rotations and biomechanical issues."
+      }
+    ]
+  },
+  "stats": {
+    "title": "Numbers That Speak for Themselves",
+    "items": [
+      { "value": "15+", "label": "Years Experience" },
+      { "value": "5,000+", "label": "Patients Treated" },
+      { "value": "98%", "label": "Satisfaction Rate" },
+      { "value": "6", "label": "Areas of Expertise" }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey to Health?",
+    "subtitle": "Book an appointment today and let us help you return to full life.",
+    "primary": "Book Appointment",
+    "secondary": "Call Us"
+  },
+  "booking": {
+    "title": "Book an Appointment",
+    "subtitle": "Fill in your details and we will contact you to confirm",
+    "name": "Full Name",
+    "name_placeholder": "John Doe",
+    "phone": "Phone",
+    "phone_placeholder": "050-0000000",
+    "email": "Email",
+    "email_placeholder": "john@example.com",
+    "service": "Treatment Type",
+    "service_placeholder": "Select treatment",
+    "date": "Preferred Date",
+    "time": "Preferred Time",
+    "time_placeholder": "Select time",
+    "notes": "Additional Notes",
+    "notes_placeholder": "Briefly describe the issue...",
+    "submit": "Send Appointment Request",
+    "submitting": "Sending...",
+    "success_title": "Request Received!",
+    "success_msg": "Thank you! We will contact you shortly to confirm your appointment.",
+    "whatsapp_btn": "Send Directly via WhatsApp",
+    "services": [
+      "Foot Physiotherapy",
+      "Lower Back Pain Treatment",
+      "Post-Surgery Rehabilitation",
+      "Sports Injuries",
+      "Orthopedic Insoles",
+      "Gait Analysis",
+      "Other"
+    ],
+    "times": [
+      "08:00", "08:30", "09:00", "09:30", "10:00", "10:30",
+      "11:00", "11:30", "12:00", "12:30", "13:00", "13:30",
+      "14:00", "14:30", "15:00", "15:30", "16:00", "16:30",
+      "17:00", "17:30", "18:00", "18:30"
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to answer any question",
+    "phone_label": "Phone",
+    "address_label": "Address",
+    "hours_label": "Opening Hours",
+    "hours": {
+      "weekdays": "Sunday–Thursday: 08:00–19:00",
+      "friday": "Friday: 08:00–14:00",
+      "saturday": "Saturday: Closed"
+    },
+    "map_placeholder": "Map",
+    "form_title": "Send a Message",
+    "name": "Name",
+    "name_placeholder": "Your full name",
+    "email": "Email",
+    "email_placeholder": "your@email.com",
+    "message": "Message",
+    "message_placeholder": "How can we help?",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "success": "Message sent! We will get back to you soon."
+  },
+  "footer": {
+    "tagline": "Everything starts with one perfect domain — FIXFEET.CO.IL",
+    "links_title": "Quick Links",
+    "contact_title": "Contact",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "unlock": {
+    "title": "Protected Site",
+    "subtitle": "Enter password to continue",
+    "placeholder": "Password",
+    "submit": "Enter",
+    "error": "Incorrect password, please try again"
+  },
+  "meta": {
+    "home_title": "FixFeet | Expert Foot Physiotherapy Clinic",
+    "home_desc": "Professional physiotherapy clinic specialising in foot treatment, back pain, rehabilitation and sports. Book your appointment today.",
+    "booking_title": "Book Appointment | FixFeet",
+    "booking_desc": "Book a professional physiotherapy appointment. Choose your service, date and time.",
+    "contact_title": "Contact | FixFeet",
+    "contact_desc": "Contact the FixFeet clinic. Find us, call us or send a message."
+  }
+}
