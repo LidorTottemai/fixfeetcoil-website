@@ -1,0 +1,36 @@
+{
+  "name": "FixFeet",
+  "domain": "fixfeet.co.il",
+  "phone": "",
+  "whatsapp": "972501234567",
+  "address": "",
+  "email": "",
+  "bookingType": "appointment",
+  "locale": {
+    "default": "he",
+    "supported": ["he", "en"]
+  },
+  "brand": {
+    "primary": "#2563EB",
+    "secondary": "#10B981",
+    "accent": "#F59E0B",
+    "dark": "#1E293B"
+  },
+  "services": [
+    "פיזיותרפיה לרגליים",
+    "טיפול בכאבי גב תחתון",
+    "שיקום לאחר ניתוח",
+    "פציעות ספורט",
+    "אינסולים אורתופדיים",
+    "ניתוח הליכה"
+  ],
+  "hours": {
+    "sunday": "08:00-19:00",
+    "monday": "08:00-19:00",
+    "tuesday": "08:00-19:00",
+    "wednesday": "08:00-19:00",
+    "thursday": "08:00-19:00",
+    "friday": "08:00-14:00",
+    "saturday": "closed"
+  }
+}
